@@ -1,2 +1,3 @@
-# berkeley-meal-planner-info
-Public homepage and privacy policy for a personal meal-planning application. No application code or account data.
+# Berkeley Meal Planner information
+
+Public application homepage and privacy policy only. The application and its credentials are maintained separately in a private repository.
